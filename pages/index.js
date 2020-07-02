@@ -27,13 +27,6 @@ export default function Home() {
     return (
         <div className="main-container">
             <HeadMeta />
-            <div className="github-link">
-                <span>
-                    Coffee page with Gumroad payment
-                </span>
-                <a href="https://github.com/mddanishyusuf/gumroad-coffee-template" target="_blank"><AiOutlineCode /><span>Get the Code</span></a>
-                <a href="https://github.com/mddanishyusuf/gumroad-coffee-template/blob/master/README.md" target="_blank"><FiGithub /><span>Use this template</span></a>
-            </div>
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
@@ -46,5 +39,5 @@ export default function Home() {
                 </div>
             </div>
         </div>
-    );
+    )
 }
