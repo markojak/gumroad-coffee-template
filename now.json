@@ -1,7 +1,7 @@
 {
     "version": 2,
     "alias": [
-        "buy-me-coffee"
+        "support"
     ],
     "builds": [{
         "src": "package.json",

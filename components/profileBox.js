@@ -10,7 +10,7 @@ const ProfileBox = () => {
         <div className="profile">
             <div className="profile-head">
                 <div className="profile-photo">
-                    <img src="https://pbs.twimg.com/profile_images/1199611613080276992/94p0_IIQ_400x400.png" alt="" />
+                    <img src="https://p193.p3.n0.cdn.getcloudapp.com/items/o0uvYmZx/marko.jpg?v=3786650f61a5057ad45a5ed754ccd2f8" alt="" />
                 </div>
                 <h2>{profileData.name}</h2>
                 <small>{profileData.subtitle}</small>
